@@ -1,28 +1,12 @@
-Hey, I'm Abdul Basit Iqbal 👋
-
-Full-Stack Developer | Building scalable infrastructure with a dash of frontend finesse
-
-🎯 What I Do
-
-I architect infrastructure, and ship full-stack applications that actually work.
+**I architect infrastructure**, and ship full-stack applications that **actually work**.
 Available immediately · Based in 🇵🇰 Peshawar · Thrives on collaboration
 
-🛠️ Tech Stack
-Backend          → Node.js, Express, Laravel, Python
-Frontend         → React, Next.js, TypeScript, Tailwind CSS
-Databases        → PostgreSQL, MongoDB, MySQL, SQL Server
-Tools & Practices → Git, JIRA, TDD, Playwright, IaC
+**4+ years** of production experience across MongoDB, Express, React, and Node.js, plus Next.js and Laravel.
 
-Full-Stack Delivery — Calendar library, AI web-builder, enterprise platforms
-Collaborative Builder — Led UI architecture for Japanese enterprise client | 4+ years shipping
+**SKILLS**
 
-📚 Beyond Code
-
-🏃‍♂️ Football enthusiast (former college captain) | 📖 Reading: self-help, biographies, philosophy | 💪 Fitness-focused | 🤝 Driven by high-performing teams
-
-📧 Reach out if you're hiring, collaborating, or just want to chat infrastructure.
-<div align="center">
-
-"Infrastructure is not just about uptime—it's about enabling teams to move fast and ship with confidence."
-
-</div>
+**MERN & Languages**         -> MongoDB, Express.js, React (18/19), Node.js, JavaScript, TypeScript, SQL, PHP, Python
+**Front-End & Back-End**     -> Next.js, Redux Toolkit, Tailwind CSS, shadcn/ui, REST APIs, microservices, webhooks, Laravel 11, Supabase, Firebase
+**Databases**                -> MongoDB, PostgreSQL, MySQL, Redis, Firestore, Prisma
+**Cloud, CI/CD & Workflow**  -> AWS (EC2, S3, Lambda, CodePipeline, CodeBuild, CodeDeploy), Jenkins, GitHub Actions, Docker, Kubernetes, JIRA, Agile/Scrum
+**Testing**                  -> Jest, Vitest, Playwright, nock, Postman, TDD
